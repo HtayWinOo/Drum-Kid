@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div.row img{
+    width: 150px;
+    height: 150px;
+}
+
+.row{
+    justify-content: center;
+}
+
+h1{
+    margin-bottom: 50px;
+}
